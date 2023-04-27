@@ -1,0 +1,14 @@
+{
+  "name": "netflix_homepage_clone",
+  "version": "1.0.0",
+  "description": "Netflix homepage clone",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bukolab99",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^21.1.1"
+  }
+}
